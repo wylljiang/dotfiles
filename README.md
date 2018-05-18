@@ -8,4 +8,4 @@ Load iterm settings from the following file: [iterm settings](/iterm/wylljiang.p
 Bash dotfiles can be found here: [bash settings](/bash)
 
 ## Vim
-Vim dotfiles can be found here: [vim settings](/vim)
+Vim dotfiles can be found here: [vim settings](/.vimrc)
