@@ -11,3 +11,6 @@ Bash dotfiles can be found here: [bash settings](/bash)
 
 ## Vim
 Vim dotfiles can be found here: [vim settings](/.vimrc)
+
+## ZSH
+ZSH dotfiles and config settings can be found here: [zsh settings](/zsh)
