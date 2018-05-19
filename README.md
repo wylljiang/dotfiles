@@ -10,7 +10,7 @@ Font used is *Ubuntu Font - Monospaced* which can be downloaded here: (https://d
 Bash dotfiles can be found here: [bash settings](/bash)
 
 ## Vim
-Vim dotfiles can be found here: [vim settings](/.vimrc)
+Vim dotfiles can be found here: [vim settings](/vim/.vimrc)
 
 ## ZSH
 ZSH dotfiles and config settings can be found here: [zsh settings](/zsh)
