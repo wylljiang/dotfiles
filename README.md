@@ -6,6 +6,11 @@ Load iterm settings from the following file: [iterm settings](/iterm/wylljiang.p
 
 Font used is *Ubuntu Font - Monospaced* which can be downloaded here: (https://design.ubuntu.com/font/)
 
+### Nord
+[Nord iterm profile](https://github.com/arcticicestudio/nord-iterm2)
+
+[Nord dircolors](https://github.com/arcticicestudio/nord-dircolors)
+
 ## Bash
 Bash dotfiles can be found here: [bash settings](/bash)
 
